@@ -1,8 +1,8 @@
 
 const Header = () => {
     return (
-        <div>
-            <h2>Memorable Water Bottle</h2>
+        <div className=" bg-sky-300 p-5 rounded-md text-black mb-5">
+            <h2 className=" text-2xl font-semibold">Memorable Water Bottle</h2>
         </div>
     );
 };
